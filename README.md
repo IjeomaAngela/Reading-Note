@@ -5,3 +5,4 @@ key points for personal deveoplent
 > consistency and not giving up. committing to acheiving result. stay focus and beleiev in yourself. accept corretions learn to improve yourself. get mentorship
 # introduction
 i'm an enthusiastic person and i give my best in any work given while hopeing for a successful result and i look forward to being good at coding
+![this is the octocat](https://i.redd.it/erdjqzlmlv111.png)
