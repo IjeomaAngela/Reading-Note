@@ -13,4 +13,4 @@ key points for personal deveoplent
 - outside work, adventrue is my relaxing place
 
 ![this is the octocat](https://techcrunch.com/wp-content/uploads/2018/06/github-octocat-microsoft.png?w=730)
-you can view my github repos [HERE]https://github.com/IjeomaAngela/Reading-Note/edit/main/README.md
+you can view my github repos [HERE]https://github.com/IjeomaAngela/Reading-Note
