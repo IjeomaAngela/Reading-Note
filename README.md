@@ -8,7 +8,7 @@ key points for personal deveoplent
 - accept corretions learn to improve yourself. 
 - get mentorship
 
-# introduction
+# Introduction
 >i'm an enthusiastic person and i give my best in any work given while hopeing for a successful result and i look forward to being good at coding.
 - outside work, adventrue is my relaxing place
 
